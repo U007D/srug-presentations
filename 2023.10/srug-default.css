@@ -1,0 +1,27 @@
+/*
+@theme srug-default
+*/
+
+@import 'gaia';
+
+section {
+    width: 1280px;
+    height: 960px;
+    font-size: 40px;
+    padding: 10px;
+    background: rgb(121, 121, 121);
+}
+
+h1 {
+    font-size: 60px;
+    color: #09c;
+}
+
+h2 {
+    font-size: 50px;
+    color: #fff;
+}
+
+code {
+    font-size: 30px;
+}
